@@ -1,0 +1,11 @@
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.csprojAssemblyReference.cache
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.AssemblyInfoInputs.cache
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.AssemblyInfo.cs
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\bin\Debug\netcoreapp2.1\Lab3.1.deps.json
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\bin\Debug\netcoreapp2.1\Lab3.1.runtimeconfig.json
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\bin\Debug\netcoreapp2.1\Lab3.1.runtimeconfig.dev.json
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\bin\Debug\netcoreapp2.1\Lab3.1.dll
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\bin\Debug\netcoreapp2.1\Lab3.1.pdb
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.dll
+C:\Users\Denus\Desktop\Lab3.1\Lab3.1\obj\Debug\netcoreapp2.1\Lab3.1.pdb
