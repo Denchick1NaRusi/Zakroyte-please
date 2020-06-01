@@ -1,0 +1,13 @@
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.csprojAssemblyReference.cache
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.csproj.CoreCompileInputs.cache
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.AssemblyInfoInputs.cache
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.AssemblyInfo.cs
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.exe
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.deps.json
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.runtimeconfig.json
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.runtimeconfig.dev.json
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.dll
+C:\Users\denchik\Desktop\lab8.4\lab8.4\bin\Debug\netcoreapp3.1\lab8.4.pdb
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.dll
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.pdb
+C:\Users\denchik\Desktop\lab8.4\lab8.4\obj\Debug\netcoreapp3.1\lab8.4.genruntimeconfig.cache
