@@ -1,0 +1,13 @@
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.exe
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.deps.json
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.runtimeconfig.json
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.runtimeconfig.dev.json
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.dll
+C:\Users\denchik\Desktop\lab7.0\lab7.0\bin\Debug\netcoreapp3.1\lab7.0.pdb
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.csprojAssemblyReference.cache
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.csproj.CoreCompileInputs.cache
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.AssemblyInfoInputs.cache
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.AssemblyInfo.cs
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.dll
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.pdb
+C:\Users\denchik\Desktop\lab7.0\lab7.0\obj\Debug\netcoreapp3.1\lab7.0.genruntimeconfig.cache
